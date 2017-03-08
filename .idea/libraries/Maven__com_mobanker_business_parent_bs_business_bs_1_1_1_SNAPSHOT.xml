@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.business.parent.bs:business_bs:1.1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/business/parent/bs/business_bs/1.1.1-SNAPSHOT/business_bs-1.1.1-20161011.074724-109.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/business/parent/bs/business_bs/1.1.1-SNAPSHOT/business_bs-1.1.1-20161011.074724-109-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/business/parent/bs/business_bs/1.1.1-SNAPSHOT/business_bs-1.1.1-20161011.074724-109-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.config:zookeeperConfig:1.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/config/zookeeperConfig/1.0.3-SNAPSHOT/zookeeperConfig-1.0.3-20170116.091902-75.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/config/zookeeperConfig/1.0.3-SNAPSHOT/zookeeperConfig-1.0.3-20170116.091902-75-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/config/zookeeperConfig/1.0.3-SNAPSHOT/zookeeperConfig-1.0.3-20170116.091902-75-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

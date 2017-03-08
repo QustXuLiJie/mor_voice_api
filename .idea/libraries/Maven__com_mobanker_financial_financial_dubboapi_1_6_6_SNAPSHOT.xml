@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.financial:financial-dubboapi:1.6.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/financial/financial-dubboapi/1.6.6-SNAPSHOT/financial-dubboapi-1.6.6-20170228.075347-61.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/financial/financial-dubboapi/1.6.6-SNAPSHOT/financial-dubboapi-1.6.6-20170228.075347-61-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/financial/financial-dubboapi/1.6.6-SNAPSHOT/financial-dubboapi-1.6.6-20170228.075347-61-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

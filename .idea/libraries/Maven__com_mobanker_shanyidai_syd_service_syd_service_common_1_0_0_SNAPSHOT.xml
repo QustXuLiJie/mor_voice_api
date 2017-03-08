@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.shanyidai.syd-service:syd_service_common:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/shanyidai/syd-service/syd_service_common/1.0.0-SNAPSHOT/syd_service_common-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/shanyidai/syd-service/syd_service_common/1.0.0-SNAPSHOT/syd_service_common-1.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/shanyidai/syd-service/syd_service_common/1.0.0-SNAPSHOT/syd_service_common-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

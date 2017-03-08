@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.common:mobanker-common-utils:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/common/mobanker-common-utils/1.0-SNAPSHOT/mobanker-common-utils-1.0-20151202.051146-80.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/common/mobanker-common-utils/1.0-SNAPSHOT/mobanker-common-utils-1.0-20151202.051146-80-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/common/mobanker-common-utils/1.0-SNAPSHOT/mobanker-common-utils-1.0-20151202.051146-80-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

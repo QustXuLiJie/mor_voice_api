@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.basedata:mobanker-basedata-contract:1.0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/basedata/mobanker-basedata-contract/1.0.2-SNAPSHOT/mobanker-basedata-contract-1.0.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/basedata/mobanker-basedata-contract/1.0.2-SNAPSHOT/mobanker-basedata-contract-1.0.2-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/basedata/mobanker-basedata-contract/1.0.2-SNAPSHOT/mobanker-basedata-contract-1.0.2-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

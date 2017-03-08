@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.framework:mobanker-core:2.1.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/framework/mobanker-core/2.1.2-SNAPSHOT/mobanker-core-2.1.2-20160918.072328-41.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/framework/mobanker-core/2.1.2-SNAPSHOT/mobanker-core-2.1.2-20160918.072328-41-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/framework/mobanker-core/2.1.2-SNAPSHOT/mobanker-core-2.1.2-20160918.072328-41-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

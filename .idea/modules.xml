@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mobanker_voice_api.iml" filepath="$PROJECT_DIR$/mobanker_voice_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voice_api/voice_api.iml" filepath="$PROJECT_DIR$/voice_api/voice_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voice_common/voice_common.iml" filepath="$PROJECT_DIR$/voice_common/voice_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/voice_service/voice_service.iml" filepath="$PROJECT_DIR$/voice_service/voice_service.iml" />
+    </modules>
+  </component>
+</project>

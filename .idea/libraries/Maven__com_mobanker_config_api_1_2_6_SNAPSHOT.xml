@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker:config-api:1.2.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/config-api/1.2.6-SNAPSHOT/config-api-1.2.6-20170119.023736-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/config-api/1.2.6-SNAPSHOT/config-api-1.2.6-20170119.023736-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/config-api/1.2.6-SNAPSHOT/config-api-1.2.6-20170119.023736-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.business.parent.dubbo:business_dubbo:1.0.9-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/business/parent/dubbo/business_dubbo/1.0.9-SNAPSHOT/business_dubbo-1.0.9-20170209.061713-22.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/business/parent/dubbo/business_dubbo/1.0.9-SNAPSHOT/business_dubbo-1.0.9-20170209.061713-22-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/business/parent/dubbo/business_dubbo/1.0.9-SNAPSHOT/business_dubbo-1.0.9-20170209.061713-22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

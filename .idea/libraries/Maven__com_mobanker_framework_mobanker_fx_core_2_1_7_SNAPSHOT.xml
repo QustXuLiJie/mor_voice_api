@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.framework:mobanker-fx-core:2.1.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/framework/mobanker-fx-core/2.1.7-SNAPSHOT/mobanker-fx-core-2.1.7-20170210.144329-51.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/framework/mobanker-fx-core/2.1.7-SNAPSHOT/mobanker-fx-core-2.1.7-20170210.144329-51-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/framework/mobanker-fx-core/2.1.7-SNAPSHOT/mobanker-fx-core-2.1.7-20170210.144329-51-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

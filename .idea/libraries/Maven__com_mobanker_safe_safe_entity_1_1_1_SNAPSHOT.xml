@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mobanker.safe:safe-entity:1.1.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/mvn/repo/com/mobanker/safe/safe-entity/1.1.1-SNAPSHOT/safe-entity-1.1.1-20170304.055532-11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/mvn/repo/com/mobanker/safe/safe-entity/1.1.1-SNAPSHOT/safe-entity-1.1.1-20170304.055532-11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/mvn/repo/com/mobanker/safe/safe-entity/1.1.1-SNAPSHOT/safe-entity-1.1.1-20170304.055532-11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
